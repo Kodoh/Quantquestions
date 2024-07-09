@@ -1,7 +1,7 @@
 1. **Calculate the position of the minute hand:**
    - At 15 minutes past the hour, the minute hand is at the 3 on the clock.
-   - Each minute represents 6 degrees (since \(360^\circ / 60 = 6^\circ\)).
-   - Therefore, the minute hand at 15 minutes is at \(15 \times 6 = 90^\circ\).
+   - Each minute represents 6 degrees (since 360 / 60 = 6).
+   - Therefore, the minute hand at 15 minutes is at 15 * 6 = 90.
 
 2. **Calculate the position of the hour hand:**
    - The hour hand moves 30 degrees per hour (since 360 / 12 = 30).

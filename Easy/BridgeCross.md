@@ -5,4 +5,4 @@
    - **Step 4**: Charlie returns with the lantern. This takes 2 minutes.
    - **Step 5**: Daniel and Charlie cross the bridge again. This takes 2 minutes.
 
-\(C+D+A+C+C=17\)
+C+D+A+C+C=17C+D+A+C+C=17
